@@ -93,9 +93,6 @@ class Gif extends Component {
       }
 
       if (this.state.stopped || repeatCount >= this.props.times) {
-        this.setState({
-          currentFrame: this.gif.frameAt(0)
-        });
         return;
       }
 
