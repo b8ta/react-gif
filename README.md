@@ -5,7 +5,7 @@ React port of [x-gif](http://geelen.github.io/x-gif/)
 ## Installation
 
 ```
-npm install react-gif
+npm install --save git+https://git@github.com/b8ta/react-gif
 ```
 
 ## Demo
