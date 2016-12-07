@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/cezary/react-gif",
   "dependencies": {
-    "exploder": "git://github.com/cezary/exploder"
+    "exploder": "git://github.com/b8ta/exploder"
   },
   "devDependencies": {
     "babel-cli": "^6.10.1",
